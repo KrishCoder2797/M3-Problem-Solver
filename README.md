@@ -1,13 +1,23 @@
-🧮 Engineering Mathematics 3 Solver (M3 Solver)
-M3 Solver is a desktop application built using Java and JavaFX that helps engineering students solve complex problems from the Engineering Mathematics 3 syllabus. The application automates lengthy calculations and provides step-by-step solutions, making it easier for students to understand and verify their work.
 
-🔑 Features:
-Solves problems related to differential equations, Laplace transforms, Fourier series, and more
+## 🧮 Engineering Mathematics 3 Solver (M3 Solver)
 
-Generates step-by-step explanations for better conceptual clarity
+**Engineering Mathematics 3 Solver** is a **Java and JavaFX-based desktop application** designed to assist engineering students by automating complex mathematical calculations and providing **step-by-step solutions**.
 
-Clean and responsive JavaFX-based GUI
+### 🎯 Key Features
 
-Reduces manual effort and saves time during exam preparation
+* 📘 Solves problems from **Engineering Mathematics 3** syllabus
+* 🧠 Provides **step-by-step solutions** for better understanding
+* ⚡ Automates **lengthy and repetitive calculations**
+* 💻 Built using **Java** and **JavaFX** for a smooth desktop experience
+* 🧮 Covers topics like differential equations, Laplace transforms, Fourier series, and more
 
-This tool is ideal for engineering students and educators who want quick, accurate, and understandable solutions to M3-level math problems. It serves as a smart learning companion for mastering advanced math topics.
+### 🛠️ Tech Stack
+
+* **Java** (Core logic and backend)
+* **JavaFX** (UI development)
+* **FXML** (for layout structuring)
+
+### 👨‍🎓 Ideal For
+
+* Engineering students seeking quick and reliable solutions to M3 problems
+* Teachers or tutors demonstrating mathematical problem-solving technique 
